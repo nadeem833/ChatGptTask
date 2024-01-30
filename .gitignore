@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+myenv/
+eggs/
+parts/
+bin/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+__pypackages__/
+*.egg
+
+# Virtual environments (env, venv, .venv)
+.env/
+venv/
+.venv/
+ENV/
+env/
+ENV35/
+env35/
+.pyvenv/
+pip-selfcheck.json
+
+# Django local settings
+settings_local.py
+
+# Debugging logs
+*.log
+*.pot
+
+# SQLite database files
+*.sqlite3
+
+# Secret key
+*.secret_key
+
+# IDE settings
+.idea/
+.vscode/
+
+# Ignore compiled JavaScript
+*.js.map
+
+# Ignore compiled CSS
+*.css.map
+
+# Heroku-specific
+*.env
+*.env.*
+
+# Ignore Node.js modules
+node_modules/
+
+# Ignore package-lock files
+package-lock.json
+
+# Ignore npm debugging logs
+npm-debug.log*
